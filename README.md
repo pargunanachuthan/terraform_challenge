@@ -36,6 +36,8 @@ terraform validate ---- to check the code for errors
 
 terraform apply ---- to apply terraform configurations
 
+After successfully applying the code it will give the public ip of the ec2 instance and Endpoint of the RDS MySQL instance.
+
 
 terraform destroy ----to delete the terraform configurations applied 
 
