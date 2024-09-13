@@ -31,12 +31,13 @@ This code will create the resources in the ap-south-1 region if you want to chan
 
 After doing the changes use
 terraform init ---- to initialize the terraform 
+
 terraform validate ---- to check the code for errors 
+
 terraform apply ---- to apply terraform configurations
+
 
 terraform destroy ----to delete the terraform configurations applied 
 
 
 
-                              ---- end ----
-                              happy learning
